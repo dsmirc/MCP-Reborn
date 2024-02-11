@@ -75,6 +75,7 @@
 
 * Hexeption
 * kingdevnl
+* dsmirc
 
 #### Special thanks to: **MinecraftForge** Team who made this tool possible. ❤
 
