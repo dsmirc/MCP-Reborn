@@ -102,6 +102,7 @@ tasks.register('runclient', JavaExec) {
 }
 
 
+
 tasks.register('setup') {
     group = "MCP"
     description = "Setups the dev workspace"
