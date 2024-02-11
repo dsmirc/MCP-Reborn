@@ -18,6 +18,8 @@ jobs:
       run: chmod +x gradlew && ./gradlew setup
     - name: Build with Gradle
       run: chmod +x gradlew && ./gradlew build
+    - name: Compile with Gradle
+      run: chmod +x gradlew && ./gradlew runclient
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
       with:
